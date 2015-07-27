@@ -38,3 +38,9 @@ e.g.
 = How to disable "next" and "prev" buttons? =
 
 Click on `Edit` slider and scroll down to find `Navigation` section avalible on right bottom of the page and select `No` form drop-down menu then click to save.
+
+== Screenshots ==
+
+1. Add New Slider
+2. Slider settings
+3. View all slider find shortcode under each slider [singsys_slider id="{slider_id}"]
