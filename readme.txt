@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Singsys Responsive Slider is a great plugin to manage slides very easily.
+Singsys Responsive Slider is a great plugin to manage slides very easily. You can easily create responsive sliders in minutes for WordPress websites.
 
 == Description ==
 
