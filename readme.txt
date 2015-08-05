@@ -1,4 +1,4 @@
-== Responsive Slider Plugin - Singsys ==
+== Singsys - Responsive Slider ==
 Contributors: info@singsys.com
 Donate link: http://www.plugin.singsys.com/singsys-responsive-slider/
 Tags: slider, responsive slider, free slider
