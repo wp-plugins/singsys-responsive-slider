@@ -1,4 +1,4 @@
-=== WordPress Responsive Slider Plugin - Singsys ===
+=== Responsive Slider Plugin - Singsys ===
 Contributors: info@singsys.com
 Donate link: http://www.plugin.singsys.com/singsys-responsive-slider/
 Tags: slider, responsive slider, free slider
@@ -18,10 +18,10 @@ Singsys Responsive Slider is powered by Singsys Software Services Pte Ltd
 
 Features
 
-*   Fully responsive slider.
-*   No matter what size is uploaded because images of any size is scaled to show perfectly.
-*   Supports touch swipe in mobile devices.
-*   Provide custom controls on each slider
+* Fully responsive slider.
+* No matter what size is uploaded because images of any size is scaled to show perfectly.
+* Supports touch swipe in mobile devices.
+* Provide custom controls on each slider
 
 == Installation ==
 
