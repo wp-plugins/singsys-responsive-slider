@@ -16,7 +16,7 @@ Singsys Responsive Slider allows you to create slides that consist images, title
 
 Singsys Responsive Slider is powered by Singsys Software Services Pte Ltd
 
-Features
+== Features ==
 
 * Fully responsive slider.
 * No matter what size is uploaded because images of any size is scaled to show perfectly.
